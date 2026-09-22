@@ -1,0 +1,1747 @@
+{
+  "home": [
+    {
+      "tag": "p",
+      "text": "University of Manchester, UK",
+      "links": [
+        {
+          "text": "University of Manchester, UK",
+          "url": "https://research.manchester.ac.uk/en/persons/hongpeng-zhou/"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Email",
+      "links": [
+        {
+          "text": "Email",
+          "url": "mailto:hongpeng.zhou@manchester.ac.uk"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "LinkedIn",
+      "links": [
+        {
+          "text": "LinkedIn",
+          "url": "https://www.linkedin.com/in/hongpeng-zhou-302992130/"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Google Scholar",
+      "links": [
+        {
+          "text": "Google Scholar",
+          "url": "https://scholar.google.com/citations?user=StuUN6wAAAAJ&hl=zh-CN"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Github",
+      "links": [
+        {
+          "text": "Github",
+          "url": "https://github.com/hongpengzhou/Deep-Bayesian-System-Identification"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "ORCID",
+      "links": [
+        {
+          "text": "ORCID",
+          "url": "https://orcid.org/0000-0002-3894-0116"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Researchgate",
+      "links": [
+        {
+          "text": "Researchgate",
+          "url": "https://www.researchgate.net/profile/Zhou-Hongpeng-3"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "WeChat",
+      "links": [
+        {
+          "text": "WeChat",
+          "url": "https://u.wechat.com/kKMdf4czhGB-gznAy5jOHSg"
+        }
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "Dr. Hongpeng Zhou",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Dame Kathleen Ollerenshaw Fellow (Assistant Professor) in the Computer Science Department of the University of Manchester, UK. Dr Zhou leads the HealthAI research group, which focuses on AI for biomedical applications and aims to build interpretable, efficient, effective, and practically useful AI methods that accelerate the translation of AI into biomedical research and uncover the biological mechanisms underlying complex biomedical data. My research interests include machine learning, sparse Bayesian learning, interpretable learning, and bioinformatics.",
+      "links": [
+        {
+          "text": "Dame Kathleen Ollerenshaw Fellow",
+          "url": "https://research.manchester.ac.uk/en/persons/hongpeng-zhou"
+        },
+        {
+          "text": "University of Manchester",
+          "url": "https://www.manchester.ac.uk/"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "We are always looking for talented and self-motivated Postdocs, PhDs, and visiting PhDs to join our group (check Here for more details). If you are interested in developing cutting-edge AI methods to tackle fundamental biomedical research challenges, please fill in the PhD application inquiry form. You are also welcome to contact me directly.",
+      "links": [
+        {
+          "text": "Here",
+          "url": "/people"
+        },
+        {
+          "text": "PhD application inquiry form",
+          "url": "https://forms.gle/Lb5VEhT4vzHMJL1q6"
+        },
+        {
+          "text": "contact me",
+          "url": "mailto:hongpeng.zhou@manchester.ac.uk"
+        }
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "Recent News:",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "[July 26]: Our paper \"Foundation Models in Omics Research: A Comprehensive Survey\" has been accepted in Briefings in Bioinformatics. Well done, Haozhe!",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "[July 26]: Our paper \"Towards embodied AI in manufacturing: Review, Evaluation, and Future directions\" is online in Robotics and Computer-Integrated Manufacturing. Thanks to my collaborator, Dr Yongzhe Li and Yexing Zheng.",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "[July 26]: Our paper \"Will predictive AI make discovery research in metabolism obsolete?\" is online in npj Metabolic Health and Disease. Well done, Jingyu!",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "[Jun 26]: Our paper \"Benchmarking a Spatial-Aware Foundation Model: An Empirical Evaluation of CellPLM in Transcriptomics\" has been accepted for an ORAL PRESENTATION at CIBB 2026, the 21st edition of the International Conference on Computational Intelligence Methods for Bioinformatics and Biostatistics. Well done, Haiping and Juha!",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "[May 26]: Our paper \"Domain-adaptive nonlinear probabilistic latent variable model for vibration-based structural damage detection under climate change\" is online in Structural Health Monitoring. Thanks to my collaborator, Dr Xiaoyou Wang.",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "[May 26]: Our paper \"Cross-Scale Contrastive Learning with Subgraph and Line-Graph Views for link prediction\" is online in Physica A: Statistical Mechanics and its Applications. Great collaboration with our visiting professor, Dr Yabing Yao.",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "[Mar 26]: Our paper “A Unified and Interpretable Framework for Evaluating Fluorescence Trace Quality in Transcription Kinetics,” received the Best Paper Award at the 17th International Conference on Bioinformatics Models, Methods and Algorithms (BIOINFORMATICS 2025), Well done, Yiwen and Rui!",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "[Feb 26]: My master student Juha Lm secured a full PhD scholarship at Kiel University, Germany. Well Done, Juha!",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "[Feb 26]: Secured Funding from IAA-EPSRC! Thanks, my collaborator, Dr Fangying Wang!",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "[Feb 26]: Paper \"Improved Extended Kalman Filter-Based Disturbance Observers for Exoskeletons\" accepted by IEEE Transactions on Industrial Electronics! Thanks, my collaborator, Dr Shilei Li!",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "[Dec 25]: Awarded Fellow of Advance HE (FHEA)",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "[July 25]: Selected as a Fellow of the International Association of Advanced Materials (IAAM).",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "[Jun-25]: Congratulations to my PhD student, Mr.Haiping Liu was awarded the Best Presentation at the 6th Manchester UK-China Young Scholars Forum! Well done!",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "[Jun-25]: Received a grant from Prevent Breast Cancer Ltd as Co-I.",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "[Jun-25]: Invited talk to the Google DeepMind Research Ready Scheme!",
+      "links": [
+        {
+          "text": "Google DeepMind Research Ready Scheme",
+          "url": "https://www.ellismcr.org/rrinternships"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "[Jun-25]: Invited talk to the ELLIS Summer School at Unit Manchester!",
+      "links": [
+        {
+          "text": "ELLIS Summer School",
+          "url": "https://ellis.eu/events/ellis-summer-school-at-unit-manchester"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "[Apr-25]: Congratulations to my PhD student, Ahmed, who has received grant support from Conception X - the UK’s leading PhD deeptech venture programme. Well done, Ahmed!",
+      "links": [
+        {
+          "text": "Conception X",
+          "url": "https://www.conceptionx.org/"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "[Apr-25]: Our paper on Rotary Position Embedding (RoPE), “Rethinking RoPE: A Mathematical Blueprint for N-dimensional Positional Encoding,” has been posted on arXiv. Well done, Haiping!",
+      "links": [
+        {
+          "text": "Rethinking RoPE: A Mathematical Blueprint for N-dimensional Positional Encoding",
+          "url": "https://arxiv.org/abs/2504.06308"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "[Mar-25]: Our paper on batch effect correction, “BioBatchNet: A Dual-Encoder Framework for Robust Batch Effect Correction in Imaging Mass Cytometry,” has been posted on bioRxiv. Well done, Haiping!",
+      "links": [
+        {
+          "text": "BioBatchNet: A Dual-Encoder Framework for Robust Batch Effect Correction in Imaging Mass Cytometry",
+          "url": "https://www.biorxiv.org/content/10.1101/2025.03.15.643447v1"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "[Mar-25]: We received funding from the UK Biobank. Well Done, Ahmed!",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "[Mar-25]: One paper is accepted by the Journal of Materials Science and Technology, a top Journal for Material Science. \"Machine learning-guided process optimization and comprehensive evaluation of additively manufactured biodegradable Zn-2Cu alloy\". Thanks for the collaboration with Dr.Yageng Li, and well done, Shangyan Zhao!",
+      "links": [
+        {
+          "text": "Machine learning-guided process optimization and comprehensive evaluation of additively manufactured biodegradable Zn-2Cu alloy",
+          "url": "https://www.sciencedirect.com/science/article/pii/S1005030225003263?utm_campaign=STMJ_219742_AUTH_SERV_PA&utm_medium=email&utm_acid=269921041&SIS_ID=&dgcid=STMJ_219742_AUTH_SERV_PA&CMX_ID=&utm_in=DM558098&utm_source=AC_"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "[Feb-25]: Invited lecturer to the PGT Course Unit “Introduction to Digital Biology”. I gave a talk on \"Applications of Machine Learning in Digital Health\".",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "[Jan-25]: Our proposal is accepted to host a few internship projects this summer, funded by MRC! Welcome to apply!",
+      "links": [
+        {
+          "text": "apply",
+          "url": "https://www.bmh.manchester.ac.uk/study/research/projects-programmes-degrees/undergraduateplacements/#d.en.986370"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "[Jan-25]: Our collaborative paper, 'ELF autoencoder for unsupervised exploration of flat-band materials using electronic band structure fingerprints,' has been accepted by Communications Physics. Special thanks to the lead authors, Dr. Qian Yang and Prof. Artem Mishchenko, for this great collaboration!",
+      "links": [
+        {
+          "text": "ELF autoencoder for unsupervised exploration of flat-band materials using electronic band structure fingerprints",
+          "url": "https://www.nature.com/articles/s42005-025-01936-2"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "[Jan-25]: A paper authored by my visiting PhD student, Xue Liu, \"Hierarchical Physics-Informed Neural Network for Rotor System Health Assessment\", has been accepted by the IEEE Transactions on Automation Science and Engineering. Well done, Xue!",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "text": "More about me:",
+      "links": [
+        {
+          "text": "",
+          "url": "#h.1b2oz8qxkpxl"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "2021.12 - 2023.04:",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "I was a postdoc research associate at Prof.Magnus Rattray's group - Division of Informatics, Imaging and Data Sciences at the Faculty of Biology, Medicine and Health of the University of Manchester. My research project was to develop machine learning algorithms to reveal biological mechanisms behind single-cell transcriptomics data.",
+      "links": [
+        {
+          "text": "Prof.Magnus Rattray",
+          "url": "https://research.manchester.ac.uk/en/persons/magnus.rattray"
+        },
+        {
+          "text": "University of Manchester",
+          "url": "https://www.manchester.ac.uk/"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "2018.09 - 2022.05:",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Before the postdoc, I received my PhD degree at the Department of Cognitive Robotics of the Delft University of Technology in the Netherlands, supervised by Prof.Martijn Wisse and Dr.Wei Pan. My PhD work was developing Bayesian deep learning algorithms for neural network compression, neural architecture search, interpretable deep learning and system identification. Please check my PhD thesis \"Bayesian deep learning for system identification\".",
+      "links": [
+        {
+          "text": "Cognitive Robotics",
+          "url": "https://www.tudelft.nl/index.php?id=21820&L=1"
+        },
+        {
+          "text": "Delft University of Technology",
+          "url": "https://www.tudelft.nl/en/"
+        },
+        {
+          "text": "Prof.Martijn Wisse",
+          "url": "https://www.tudelft.nl/staff/m.wisse/?cHash=41274e0e3907f9c9121d467c295c6c4d"
+        },
+        {
+          "text": "Dr.Wei Pan",
+          "url": "https://panweihit.github.io/"
+        },
+        {
+          "text": "neural architecture search",
+          "url": "https://arxiv.org/abs/1905.04919"
+        },
+        {
+          "text": "nterpretable deep learning",
+          "url": "https://arxiv.org/abs/2206.00669"
+        },
+        {
+          "text": "system identification",
+          "url": "https://www.sciencedirect.com/science/article/pii/S000510982200348X"
+        },
+        {
+          "text": "Bayesian deep learning for system identification",
+          "url": "https://research.tudelft.nl/en/publications/bayesian-deep-learning-for-system-identification"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "2011.08 - 2017.07:",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "I received my Bachelor's and Master's degrees at the Department of Control Science and Engineering of Harbin Institute of Technology in China, supervised by Prof.Shen Yin.",
+      "links": [
+        {
+          "text": "Harbin Institute of Technology",
+          "url": "http://en.hit.edu.cn/"
+        },
+        {
+          "text": "Prof.Shen Yin.",
+          "url": "https://www.ntnu.edu/employees/shen.yin"
+        }
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "Past News:",
+      "links": [
+        {
+          "text": "",
+          "url": "#h.p0tf9hh1ev8l"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "[Dec-24]: Receive Manchester-Melbourne Call for Jointly PhD Awarded, looking forward to the exciting future collaboration with Dr Magda Montgomery from The University of Melbourne.",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "[Dec-24]: Receive grant RAEng Google Deepmind placements funded by The Royal Academy of Engineering (PI: Dr. Omar Rivasplata)",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "[Dec-24]: Receive EPSRC Core Equipment Award funded by EPSCR as a Co-I (PI: Richard Curry).",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "[Dec-24]: Receive grant Developing targeted strategies for precision breast cancer prevention funded by Cancer Research UK as a Co-I (PI: Dr Andrew Gilmore).",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "[Dec-24]: Our lab's first group seminar took place on December 3rd, featuring a high-quality talk by Dr. Shengzhong Mao titled \"Learning Visibility Attention Graph Representation for Time Series Forecasting\".",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "[Nov-24]: Three fully-funded (worldwide) Bicentenary PhD projects are accepted: 1) Multimodal AI methods for spatial omics data to characterise tumour microenvironments; 2) Understanding ethnic differences in breast biology to improve prevention and early detection of cancer in Black women; 3) Investigate signalling dysregulation in diabetic heart and provide insight into precision diagnosis and treatment of HFpEF.",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "[Nov-24]: Welcome to apply for our fully-funded PhD project - UKRI AI Center for Doctoral Training (CDT) PhD funding - \"Employing Spiking Neural Networks to Unravel Spatio-temporal Dynamics of Gene Regulatory Networks using Spatial Transcriptomics Data\"",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "[Nov-24]: Our paper \"Machine Learning Prediction of GAT201-Regulated Gene Expression in Cryptococcus Neoformans Using Minimal Motifs\" has been accepted at the 3rd IEEE Industrial Electronics Society Annual Online Conference (ONCON24). Great collaboration with Mr Yiwen Xing from the University of Edinburgh.",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "[Oct-24]: Received two research grants funded by Innovate UK",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "[Sep-24]: A paper authored by my visiting PhD student, Xue Liu, has been accepted by the 20th IFAC Symposium on System Identification SYSID 2024. Well done, Xue!",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "[Sep-24]: Received funding support from ID Manchester/SISTER",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "[Sep-24]: A paper authored by my PhD student, Haiping Liu, has been accepted by the International Conference on Artificial Intelligence in Healthcare. Well done, Haiping!",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "[Aug-24]: Our paper, 'RobotSDF: Implicit Morphology Modelling for the Robotic Arm,' co-authored with Dr. Yusheng Yang, has been accepted by Sensors.",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "[Apr-24]: Received the Reviewer Award from the Journal of Computing Open",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "[Mar-24]: A PhD studentship Funded by EPSRC Doctoral Training Partnership (DTP)",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "[Feb-24]: A PhD studentship Funded by A*STAR PhD Programme",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "[Feb-24]: Funded by School of Engineering Summer Internships Programme",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "[Nov-23]: Manchester Cancer Research Centre Event Support Award",
+      "links": []
+    }
+  ],
+  "publication": [
+    {
+      "tag": "h1",
+      "text": "Publications",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "PhD thesis, \"Bayesian deep learning for system identification.\", 2022.",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Thesis",
+      "links": [
+        {
+          "text": "Thesis",
+          "url": "https://research.tudelft.nl/en/publications/bayesian-deep-learning-for-system-identification"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Xilin Yina, Huan Wang, Federico Pisanòa, Ken Gavina, Amin Askarinejad and Hongpeng Zhou, \"Deep learning-based design model for suction caissons on clay.\" Ocean Engineering, 2023.",
+      "links": [
+        {
+          "text": "Ocean Engineering",
+          "url": "https://www.sciencedirect.com/journal/ocean-engineering"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Paper",
+      "links": [
+        {
+          "text": "Paper",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0029801823019261"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Xilin Yina, Huan Wang, Federico Pisanòa, Ken Gavina, Amin Askarinejad and Hongpeng Zhou, \"Application of the neural network model in predicting the three-dimensional response of suction caissons on clay.\" 9th International SUT OSIG Conference “Innovative Geotechnologies for Energy Transition, 2023.",
+      "links": [
+        {
+          "text": "9th International SUT OSIG Conference “Innovative Geotechnologies for Energy Transition",
+          "url": "https://sut.org/event/osig2023/"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Paper",
+      "links": [
+        {
+          "text": "Paper",
+          "url": "https://www.ingentaconnect.com/content/sut/osig23/2023/00000001/00000001/art000238#"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Lauren ForbesBeadle, Hongpeng Zhou, Magnus Rattray and Hilary L. Ashe, \"Modulation of transcription burst amplitude underpins dosage compensation in the Drosophila embryo.\" Cell Reports, 2023.",
+      "links": [
+        {
+          "text": "Cell Reports",
+          "url": "https://www.cell.com/cell-reports/home"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Paper",
+      "links": [
+        {
+          "text": "Paper",
+          "url": "https://www.biorxiv.org/content/10.1101/2023.02.03.526973v2.abstract"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Hongpeng Zhou, Chahine Ibrahim, Wei Xing Zheng, Wei Pan, \"Sparse Bayesian deep learning for dynamic system identification.\" Automatica, 2022.",
+      "links": [
+        {
+          "text": "Automatica",
+          "url": "https://www.sciencedirect.com/journal/automatica"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Paper, Code",
+      "links": [
+        {
+          "text": "Paper",
+          "url": "https://www.sciencedirect.com/science/article/pii/S000510982200348X"
+        },
+        {
+          "text": "Code",
+          "url": "https://github.com/hongpengzhou/Deep-Bayesian-System-Identification"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Hongpeng Zhou, Wei Pan, \"Bayesian Learning to Discover Mathematical Operations in Governing Equations of Dynamic Systems.\" arXiv preprint arXiv:2206.00669, 2022.",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Paper",
+      "links": [
+        {
+          "text": "Paper",
+          "url": "https://arxiv.org/abs/2206.00669"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Yusheng Yang, Hongpeng Zhou, Yu Song, Peter Vink, \"Identify dominant dimensions of 3D hand shapes using statistical shape model and deep neural network.\" Applied Ergonomics, 2021.",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Paper",
+      "links": [
+        {
+          "text": "Paper",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0003687021001095"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Hongpeng Zhou, Chahine Ibrahim, Wei Pan, \"A sparse bayesian deep learning approach for identification of cascaded tanks benchmark. \" arXiv preprint arXiv:1911.06847, 2019.",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Paper",
+      "links": [
+        {
+          "text": "Paper",
+          "url": "https://arxiv.org/abs/1911.06847"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Hongpeng Zhou, Minghao Yang, Jun Wang, Wei Pan, \"Bayesnas: A bayesian approach for neural architecture search. \" International conference on machine learning (ICML), 2019.",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Paper Code",
+      "links": [
+        {
+          "text": "Paper",
+          "url": "https://arxiv.org/abs/1905.04919"
+        },
+        {
+          "text": "Code",
+          "url": "https://github.com/BayesNAS/BayesNAS"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Hengbo Ma, Tianyu Tan, Hongpeng Zhou, Tianyi Gao, \"Support vector machine-recursive feature elimination for the diagnosis of Parkinson disease based on speech analysis. \" 2016 Seventh International Conference on Intelligent Control and Information Processing (ICICIP), 2016.",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Paper",
+      "links": [
+        {
+          "text": "Paper",
+          "url": "https://ieeexplore-ieee-org.manchester.idm.oclc.org/document/7885912"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Ao Chen, Hongpeng Zhou, Yujian An, Wei Sun, \"PCA and PLS monitoring approaches for fault detection of wastewater treatment process. \" 2016 IEEE 25th International Symposium on Industrial Electronics (ISIE), 2016.",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Paper",
+      "links": [
+        {
+          "text": "Paper",
+          "url": "https://ieeexplore-ieee-org.manchester.idm.oclc.org/document/7745032"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Hongpeng Zhou, Ao Chen, Chengming Yang, Jiapeng Yin, Han Yu, ”A data-driven KPI prediction method for vehicular cyber physical system. \" 2016 IEEE 25th International Symposium on Industrial Electronics (ISIE), 2016.",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Paper",
+      "links": [
+        {
+          "text": "Paper",
+          "url": "https://ieeexplore-ieee-org.manchester.idm.oclc.org/document/7744868"
+        }
+      ]
+    }
+  ],
+  "people": [
+    {
+      "tag": "h1",
+      "text": "People",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "text": "Avaiblable PhDs and Postdoc opportunities",
+      "links": [
+        {
+          "text": "",
+          "url": "#h.j1wp06evfams"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "I am looking for outstanding prospective and highly motivated PhD students and postdoctoral staff. Prospective candidates with a background in Machine Learning, Control Science, Mathematics, Bioinformatics, Healthcare, or other related fields are encouraged to apply. If you are interested in working on machine learning for healthcare at the Department of Computer Science of The University of Manchester, please check the following funding opportunities:",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Postdoc opportunity:",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "EPSRC postdoctoral fellowship",
+      "links": [
+        {
+          "text": "EPSRC postdoctoral fellowship",
+          "url": "https://www.ukri.org/opportunity/epsrc-responsive-mode-postdoctoral-fellowship/"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "British Academy Postdoctoral Fellowships",
+      "links": [
+        {
+          "text": "British Academy Postdoctoral Fellowships",
+          "url": "https://www.alc.manchester.ac.uk/music/research/postdoctoral-opportunities/british-academy-postdoctoral-fellowships/"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Leverhulme Early Career Fellowships",
+      "links": [
+        {
+          "text": "Leverhulme Early Career Fellowships",
+          "url": "https://www.alc.manchester.ac.uk/music/research/postdoctoral-opportunities/leverhulme-fellowships/"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Simon and Hallsworth Fellowships",
+      "links": [
+        {
+          "text": "Simon and Hallsworth Fellowships",
+          "url": "https://www.humanities.manchester.ac.uk/research/funding/simon-hallsworth-fellowships/"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Sony Research Award Program",
+      "links": [
+        {
+          "text": "Sony Research Award Program",
+          "url": "https://www.sony.com/en/SonyInfo/research-award-program/"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "PhD opportunity:",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Self-funded PhD and Part-time PhD opportunities are always available and welcome",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "[2024/2025]: One PhD position funded by Manchester-Melbourne Call for Jointly PhD Awarded, Co-supervised with Dr Magda Montgomery from The University of Melbourne",
+      "links": [
+        {
+          "text": "Manchester-Melbourne Call for Jointly PhD Awarded",
+          "url": "https://www.manchester.ac.uk/study/postgraduate-research/golden/melbourne/"
+        },
+        {
+          "text": "Dr Magda Montgomery",
+          "url": "https://findanexpert.unimelb.edu.au/profile/818502-magda-montgomery"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "[2024/2025]: Three PhD positions funded (worldwide) by Bicentenary PhD projects: 1) Multimodal AI methods for spatial omics data to characterise tumour microenvironments; 2) Understanding ethnic differences in breast biology to improve prevention and early detection of cancer in Black women; 3) Investigate signalling dysregulation in diabetic heart and provide insight into precision diagnosis and treatment of HFpEF.",
+      "links": [
+        {
+          "text": "Multimodal AI methods for spatial omics data to characterise tumour microenvironments",
+          "url": "https://www.findaphd.com/phds/project/bicentenary-multimodal-ai-methods-for-spatial-omics-data-to-characterise-tumour-microenvironments/?p178904"
+        },
+        {
+          "text": "Understanding ethnic differences in breast biology to improve prevention and early detection of cancer in Black women",
+          "url": "https://www.findaphd.com/phds/project/bicentenary-understanding-ethnic-differences-in-breast-biology-to-improve-prevention-and-early-detection-of-cancer-in-black-women/?p178928"
+        },
+        {
+          "text": "Investigate signalling dysregulation in diabetic heart and provide insight into precision diagnosis and treatment of HFpEF",
+          "url": "https://www.findaphd.com/phds/project/bicentenary-investigate-signaling-dysregulation-in-diabetic-heart-and-provide-insight-into-precision-diagnosis-and-treatment-of-hfpef/?p178988"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "[2024/2025]: One PhD position funded by UKRI AI Center for Doctoral Training (CDT) - \"Employing Spiking Neural Networks to Unravel Spatio-temporal Dynamics of Gene Regulatory Networks using Spatial Transcriptomics Data\"",
+      "links": [
+        {
+          "text": "UKRI AI Center for Doctoral Training (CDT)",
+          "url": "https://ai-decisions-cdt.github.io/hugo-pages/#about"
+        },
+        {
+          "text": "Employing Spiking Neural Networks to Unravel Spatio-temporal Dynamics of Gene Regulatory Networks using Spatial Transcriptomics Data",
+          "url": "https://www.findaphd.com/phds/project/employing-spiking-neural-networks-to-unravel-spatio-temporal-dynamics-of-gene-regulatory-networks-using-spatial-transcriptomics-data/?p176838"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "[2023/2024] One PhD position funded by EPSRC Doctoral Training Partnership (DTP)",
+      "links": [
+        {
+          "text": "EPSRC Doctoral Training Partnership (DTP)",
+          "url": "https://www.se.manchester.ac.uk/phds-science-engineering/funding/doctoral-training-partnership/"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "[2023/2024] One PhD position funded by UKRI AI CDT in Decision Making for Complex Systems",
+      "links": [
+        {
+          "text": "One PhD position",
+          "url": "https://ai-decisions-cdt.github.io/hugo-pages/talk/2024_breastcancer_zhou_rattray_astley/"
+        },
+        {
+          "text": "UKRI AI CDT in Decision Making for Complex Systems",
+          "url": "https://ai-decisions-cdt.github.io/hugo-pages/#about"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "[2023/2024] One PhD position funded by the DKO fellowship",
+      "links": [
+        {
+          "text": "One PhD position",
+          "url": "https://www.cs.manchester.ac.uk/study/postgraduate-research/research-projects/description/?projectid=36646"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "[2023/2024] One PhD position funded by the A*Star PhD Programme",
+      "links": [
+        {
+          "text": "A*Star PhD Programme",
+          "url": "https://www.bmh.manchester.ac.uk/study/research/funding-fees/funded-programmes/astar/"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "President’s Doctoral Scholarship",
+      "links": [
+        {
+          "text": "President’s Doctoral Scholarship",
+          "url": "https://www.se.manchester.ac.uk/phds-science-engineering/funding/presidents-doctoral-scholarship/"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Dean's Doctoral Scholarship",
+      "links": [
+        {
+          "text": "Dean's Doctoral Scholarship",
+          "url": "https://www.se.manchester.ac.uk/phds-science-engineering/funding/deans-doctoral-scholarship/"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "The University of Manchester-China Scholarship Council (UoM-CSC) Joint Scholarship (Chinese Students only, check a backup link here)",
+      "links": [
+        {
+          "text": "The University of Manchester-China Scholarship Council (UoM-CSC) Joint Scholarship",
+          "url": "https://www.se.manchester.ac.uk/phds-science-engineering/display/?id=00000467"
+        },
+        {
+          "text": "here",
+          "url": "https://www.manchester.ac.uk/study/international/country-specific-information/china-mainland/scholarships/#country-profile"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "ELLIS Scholarship (European Laboratory for Learning and Intelligent Systems)",
+      "links": [
+        {
+          "text": "ELLIS Scholarship",
+          "url": "https://ellis.eu/phd-postdoc"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Other funding opportunities for the Department of Computer Science",
+      "links": [
+        {
+          "text": "Other funding opportunities",
+          "url": "https://www.cs.manchester.ac.uk/study/postgraduate-research/funding/"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Other funding opportunities for the Faculty of Science and Engineering",
+      "links": [
+        {
+          "text": "Other funding opportunities",
+          "url": "https://www.se.manchester.ac.uk/study/postgraduate-research/fees-and-funding/search-for-funding/"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "English Requirements should be satisfied if you want to apply for PhD positions. Please don’t hesitate to contact me if you have any questions about the application.",
+      "links": [
+        {
+          "text": "English Requirements",
+          "url": "https://www.manchester.ac.uk/study/postgraduate-research/programmes/list/02954/phd-computer-science/entry-requirements/#course-profile"
+        },
+        {
+          "text": "contact me",
+          "url": "mailto:hongpeng.zhou@manchester.ac.uk"
+        }
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "Current Members",
+      "links": [
+        {
+          "text": "",
+          "url": "#h.bdpm9mwri6cm"
+        }
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "Postdoc Research Associates:",
+      "links": [
+        {
+          "text": "",
+          "url": "#h.yb97ow73qu2h"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Dr. Shengzhong Mao, Efficient 3D Gaussian Splatting for Real-time Rendering",
+      "links": [
+        {
+          "text": "Dr. Shengzhong Mao",
+          "url": "https://scholar.google.com/citations?user=jB0o394AAAAJ&hl=zh-CN"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Youcef Benkhedda, AI-Driven Employee Well-being Analysis and Reporting System",
+      "links": [
+        {
+          "text": "Youcef Benkhedda",
+          "url": "https://scholar.google.com/citations?hl=en&user=H7b4l2MAAAAJ&view_op=list_works&sortby=pubdate"
+        }
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "PhD Students:",
+      "links": [
+        {
+          "text": "",
+          "url": "#h.7qndla3n56x5"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Man Hou Lee, Co-supervised with Dr. Magdalene Montgomery and Dr.Syed Murtuza Baker",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Yichun Wang, Co-supervised with Dr. Fangying Wang",
+      "links": [
+        {
+          "text": "Dr. Fangying Wang",
+          "url": "https://research.manchester.ac.uk/en/persons/fangying-wang"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Yiwen Xing, Co-supervised with Dr. Xiaomin Xu and Dr. Fangying Wang",
+      "links": [
+        {
+          "text": "Dr. Xiaomin Xu",
+          "url": "https://research.manchester.ac.uk/en/persons/xiaomin-xu"
+        },
+        {
+          "text": "Dr. Fangying Wang",
+          "url": "https://research.manchester.ac.uk/en/persons/fangying-wang"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Wenhao Cai, Co-supervised with Dr. Jingyuan Sun and Prof.Goran Nenadic",
+      "links": [
+        {
+          "text": "Dr. Jingyuan Sun",
+          "url": "https://research.manchester.ac.uk/en/persons/jingyuan-sun"
+        },
+        {
+          "text": "Prof.Goran Nenadic",
+          "url": "https://research.manchester.ac.uk/en/persons/gnenadic"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Haozhe Liu, Co-supervised with Dr. Jingyuan Sun and Dr.Sokratia Georgaka",
+      "links": [
+        {
+          "text": "Dr. Jingyuan Sun",
+          "url": "https://research.manchester.ac.uk/en/persons/jingyuan-sun"
+        },
+        {
+          "text": "Dr.Sokratia Georgaka",
+          "url": "https://research.manchester.ac.uk/en/persons/sokratia.georgaka"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Jingyu Sun, Co-supervised with Dr. Magdalene Montgomery and Dr.Syed Murtuza Baker",
+      "links": [
+        {
+          "text": "Dr. Magdalene Montgomery",
+          "url": "https://findanexpert.unimelb.edu.au/profile/818502-magda-montgomery"
+        },
+        {
+          "text": "Dr.Syed Murtuza Baker",
+          "url": "https://research.manchester.ac.uk/en/persons/syed.murtuzabaker"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "ManHou Lee, Co-supervised with Dr. Magdalene Montgomery and Dr.Li Dong",
+      "links": [
+        {
+          "text": "Dr. Magdalene Montgomery",
+          "url": "https://findanexpert.unimelb.edu.au/profile/818502-magda-montgomery"
+        },
+        {
+          "text": "Dr.Li Dong",
+          "url": "https://findanexpert.unimelb.edu.au/profile/670565-li-dong"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Rui Zhou, Co-supervised with Dr.Syed Murtuza Baker",
+      "links": [
+        {
+          "text": "Dr.Syed Murtuza Baker",
+          "url": "https://research.manchester.ac.uk/en/persons/syed.murtuzabaker"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Ahmed Rafe Tariq, Co-supervised with Dr. Mauricio A. Álvarez",
+      "links": [
+        {
+          "text": "Dr. Mauricio A. Álvarez",
+          "url": "https://maalvarezl.github.io/"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Haiping Liu, Co-supervised with Dr. Mauricio A. Álvarez, Prof. Alejandro F Frangi and Dr. Andrew Gilmore",
+      "links": [
+        {
+          "text": "Dr. Mauricio A. Álvarez",
+          "url": "https://maalvarezl.github.io/"
+        },
+        {
+          "text": "Prof. Alejandro F Frangi",
+          "url": "https://research.manchester.ac.uk/en/persons/alejandro-frangi"
+        },
+        {
+          "text": "Dr. Andrew Gilmore",
+          "url": "https://research.manchester.ac.uk/en/persons/andrew.gilmore"
+        }
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "Alumni:",
+      "links": [
+        {
+          "text": "",
+          "url": "#h.myxy66kqj1ui"
+        }
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "PhD Students (UoM):",
+      "links": [
+        {
+          "text": "",
+          "url": "#h.r01343oqjsdb"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Xue Liu, Visiting from Xi'an Jiaotong University, Co-supervised with Prof. Wei Cheng and Dr. Wei Pan",
+      "links": [
+        {
+          "text": "Prof. Wei Cheng",
+          "url": "https://www.linkedin.com/in/wei-cheng-3b4a1a58/?originalSubdomain=cn"
+        },
+        {
+          "text": "Dr. Wei Pan",
+          "url": "https://panweihit.github.io/"
+        }
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "Master Students (UoM):",
+      "links": [
+        {
+          "text": "",
+          "url": "#h.ucxe7u6czlf6"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Wei-Tung Lu, Impact of Signal-to-Noise Ratio and Time Trace Length on the Reliability of Gene Transcription Kinetics Data",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Haozhe Liu, Machine Learning To Identify Cancer Biomarkers From Spatial Transcriptomics Data",
+      "links": []
+    },
+    {
+      "tag": "h3",
+      "text": "Master Students (TUDelft):",
+      "links": [
+        {
+          "text": "",
+          "url": "#h.qmad0rhvxn1e"
+        }
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "Xilin Yin, Thesis: Deep learning-based design model for suction caisson foundation in clay",
+      "links": [
+        {
+          "text": "",
+          "url": "#h.snawb2d8zb92"
+        },
+        {
+          "text": "Deep learning-based design model for suction caisson foundation in clay",
+          "url": "https://repository.tudelft.nl/islandora/object/uuid:a4996e3d-7fe2-4d9d-a924-f790b3b039db"
+        }
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "Zixuan Wan, Thesis: Bayesian Deep Learning for Distilling Physical Laws from Videos",
+      "links": [
+        {
+          "text": "",
+          "url": "#h.1nb2476j8e2u"
+        },
+        {
+          "text": "Bayesian Deep Learning for Distilling Physical Laws from Videos",
+          "url": "https://repository.tudelft.nl/islandora/object/uuid%3A7164f6d2-d8af-4d8d-a46d-62a9024895da"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Ibrahim Chahine, Thesis: Bayesian Deep Learning for Dynamic System Identification",
+      "links": [
+        {
+          "text": "Bayesian Deep Learning for Dynamic System Identification",
+          "url": "https://repository.tudelft.nl/islandora/object/uuid%3A78eb1c0d-f1c8-4f5b-b70c-d3fbeea1ddc2"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Ramkumar Sakthivel, Thesis: Towards Real-Time Human Pose Estimation for Mobile Device",
+      "links": [
+        {
+          "text": "Towards Real-Time Human Pose Estimation for Mobile Device",
+          "url": "https://repository.tudelft.nl/islandora/object/uuid%3A70bee125-f415-4c12-87b6-18b414800bbc"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Mingxi Li, Thesis: Efficient Neural Architecture Search for Language Modelling",
+      "links": [
+        {
+          "text": "Efficient Neural Architecture Search for Language Modelling",
+          "url": "https://repository.tudelft.nl/islandora/object/uuid%3Aaa5c948d-43c4-480d-9818-43949c67a3b5"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Arnoud Jonker, Thesis: Accelerating Neural Networks Embedded on a Microcomputer Trained on KITTI",
+      "links": [
+        {
+          "text": "Accelerating Neural Networks Embedded on a Microcomputer Trained on KITTI",
+          "url": "https://repository.tudelft.nl/islandora/object/uuid%3A4d60c66f-5292-4616-a72f-ba055f3b0cc8"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Tim Koning, Thesis: Low level quadcopter control using Reinforcement Learning: Developing a self-learning drone",
+      "links": [
+        {
+          "text": "Low level quadcopter control using Reinforcement Learning: Developing a self-learning drone",
+          "url": "https://repository.tudelft.nl/islandora/object/uuid%3A0b9e0796-13b5-42ba-b231-fbb6aadd5233"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Minghao Yang, Thesis: Efficient Neural Network Architecture Search",
+      "links": [
+        {
+          "text": "Efficient Neural Network Architecture Search",
+          "url": "https://repository.tudelft.nl/islandora/object/uuid%3A9985c543-cb4e-4259-b6f8-b44ba433f1e3"
+        }
+      ]
+    }
+  ],
+  "talk": [
+    {
+      "tag": "h1",
+      "text": "Talk",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "29-10-2024: Invited speaker for \"Tutorial on Advanced Machine Learning Techniques and their applications in Materials Science and Bioinformatics\", University of Science and Technology Beijing, China.",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "22-09-2023: Invited speaker for \"PDRA Appreciation Week 2023 - Career Development: Industry vs. Academia\", The University of Manchester, UK.",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "11-09-2023: \"Probabilistic modelling to decipher underlying mechanism from data\", invited talk to the Programmable van der Waals Materials group, The University of Manchester, UK.",
+      "links": [
+        {
+          "text": "Programmable van der Waals Materials group",
+          "url": "https://www.artem-lab.com/home"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "31-05-2023: Bayesian deep learning for Healthcare, The University of Manchester, UK. (an invited talk to the NLP group of the CS department).",
+      "links": [
+        {
+          "text": "NLP group",
+          "url": "https://www.cs.manchester.ac.uk/research/expertise/natural-language-processing/"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "05-27-2022: Bayesian Deep Learning for system identification, Harbin Institute of Technology, China.",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "04-25-2022: \"Bayesian Learning for Nonlinear System Identification Benchmarks” at Nonlinear System Identification Benchmarks Workshop, The Catholic University of Leuven, Belgium.",
+      "links": [
+        {
+          "text": "Nonlinear System Identification Benchmarks Workshop",
+          "url": "https://www.nonlinearbenchmark.org/history"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "10-03-2020: “On Sparse Bayesian Deep Learning for System Identification” at Shenzhou Forum. Harbin Institute of Technology, China.",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "10-04-2019: “Sparse Bayesian Deep Neural Networks for Nonlinear System Identification” at Nonlinear System Identification Benchmarks, Eindhoven University of Technology, the Netherlands.",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "11-06-2019: “BayesNAS: A Bayesian Approach for Neural Architecture Search”, International Conference on Machine Learning (ICML), California, USA",
+      "links": [
+        {
+          "text": "International Conference on Machine Learning (ICML)",
+          "url": "https://icml.cc/Conferences/2019/Dates"
+        }
+      ]
+    }
+  ],
+  "review": [
+    {
+      "tag": "h1",
+      "text": "Review",
+      "links": []
+    },
+    {
+      "tag": "h3",
+      "text": "Journals:",
+      "links": [
+        {
+          "text": "",
+          "url": "#h.kyf2s8tt2z5y"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "IEEE Transactions on Network Science and Engineering",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "IEEE Transactions on Automation Science and Engineering",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "IEEE Transactions on Automatic Control",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "IEEE Transactions on Artificial Intelligence",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "IEEE Transactions on Industrial Informatics",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "IEEE Transactions on Industrial Electronics",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "IEEE Transactions on Cybernetics",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "IEEE Control Systems Letters",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Engineering Applications of Artificial Intelligence",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Automatica",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Neurocomputing",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "The Innovation",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Electronics Letters",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Information Sciences",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Computing Open",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Communications Biology",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Global Health Research and Policy",
+      "links": []
+    },
+    {
+      "tag": "h3",
+      "text": "Conferences:",
+      "links": [
+        {
+          "text": "",
+          "url": "#h.fy1ba521928o"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "IEEE Conference on Decision and Control (CDC)",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "International Federation of Automatic Control (IFAC) World Congress",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Annual Conference of the IEEE Industrial Electronics Society",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "International Symposium on Industrial Electronics",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "IEEE International Conference on Industrial Technology",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "International Conference on Intelligent Control and Information Processing",
+      "links": []
+    }
+  ],
+  "honours-and-awards": [
+    {
+      "tag": "h1",
+      "text": "Honours and Awards",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Oct'24: Received fundings supppot by Innovate UK",
+      "links": [
+        {
+          "text": "Innovate UK",
+          "url": "https://www.ukri.org/councils/innovate-uk/"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Sep'24: Received funding supppot by ID Manchester",
+      "links": [
+        {
+          "text": "ID Manchester",
+          "url": "https://www.id-manchester.com/"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Apr'24: Received the Reviewer Award from the Journal of Computing Open",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Mar'24: A PhD studentship Funded by EPSRC Doctoral Training Partnership (DTP)",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Feb'24: A PhD studentship Funded by A*STAR PhD Programme",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Feb'24: Funded by School of Engineering Summer Internships Programme",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Nov'23: Manchester Cancer Research Centre Event Support Award",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "May'23: ACED Travel Award for the Early Detection of Cancer Conference",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Apr'23: Elected as Dame Kathleen Ollerenshaw Fellow",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Jul’19: Travel Award for BMW Summer School",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Feb’19: Travel Award for the International Conference on Machine Learning (ICML)",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Jul’17: Excellent Graduate (Master) in Harbin Institute of Technology (Top 9%)",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Jul’16: Special Scholarship for Graduate Student (Top 5%)",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Nov’15: National Scholarship (Postgraduate) (Top 2%)",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Sep’15: Sep’16 First Prize of Graduate Student Scholarship in Harbin Institute of Technology",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Jul’15: Excellent Graduate (Bachelor) in Harbin Institute of Technology (Top 9%)",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "May’14: National Endeavor Fellowship (Top 2%)",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Mar’14: Three-Merit Student of Heilongjiang Province (Top 1%)",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Mar’14: Selected in the Engineering Talents Training Program in Harbin Institute of Technology (Top 5%)",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Oct’13: National Scholarship (Undergraduate) (Top 2%)",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "May’13: Xingmei Scholarship in 2013 (Top 5%)",
+      "links": []
+    }
+  ],
+  "association-and-administration": [
+    {
+      "tag": "h1",
+      "text": "Association and Administration",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Association",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Oct’23 - present: Member of the International Alliance for Cancer Early Detection (ACED)",
+      "links": [
+        {
+          "text": "ACED",
+          "url": "https://www.cancerresearchuk.org/funding-for-researchers/research-opportunities-in-early-detection-and-diagnosis/international-alliance-for-cancer-early-detection"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Sep’23 - present: Member of the European Laboratory for Learning and Intelligent Systems (ELLIS)",
+      "links": [
+        {
+          "text": "ELLIS",
+          "url": "https://ellis.eu/members"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Sep'23 - present: Member of Virtual Physiological Human Institute for Integrative Biomedical Research (VPH Institute)",
+      "links": [
+        {
+          "text": "VPH Institute",
+          "url": "https://www.vph-institute.org/"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Jun’23 - present: Founding member of the non-profit Multimodal Large Language Model forum (MLLM)",
+      "links": [
+        {
+          "text": "MLLM",
+          "url": "https://www.mllm-ai.com/"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Administrative Activity",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Oct’24: Session Chair of the Special Session on Advanced Sensing and Control in Robotics and Automation for 2024 ONCON – The 3rd IEEE Industrial Electronics Society Annual Online Conference",
+      "links": [
+        {
+          "text": "2024 ONCON",
+          "url": "https://iten.ieee-ies.org/events/2024/2024-oncon-the-3rd-ieee-industrial-electronics-society-annual-online-conference/"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Jan’24 - present: External Examiner for The Norwegian University of Science and Technology (NTNU)",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Oct’23 - present: External Examiner for The University of Huddersfield",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Sep’22 - present: Data Science Research Staff Representative of The University of Manchester",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Oct’20 - May’22: University Ph.D. Council Board Member of TUDelft",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Sep’20 - Present: Community Member of Open Science Community Delft (OSCD)",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Feb’19 - Jul’21: Faculty Ph.D. Council Board Member of the Faculty of Mechanical, Maritime and Materials Engineering",
+      "links": []
+    }
+  ],
+  "association-and-administration/organization": [
+    {
+      "tag": "h1",
+      "text": "Organization",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Workshop - Computational & Experimental Spatial Omics",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "We are excited to announce a one-day workshop on “Computational & Experimental Spatial Omics”. This event is dedicated to exploring the computational and experimental spatial omics methods as well as establishing an academic community in this space potentially creating new collaborations.",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Date: Mon, 4 Mar 2024, 09:00 - 17:30 GMT",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Location: Michael Smith Building, Dover Street, Manchester, M13 9NT",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "text": "Registration: We aim to host around 80 participants, making it an excellent opportunity for knowledge exchange and networking. Secure your spot by registering on Eventbrite.",
+      "links": [
+        {
+          "text": "registering",
+          "url": "https://www.eventbrite.co.uk/e/workshop-on-computational-experimental-spatial-omics-tickets-755488465337?aff=oddtdtcreator"
+        }
+      ]
+    }
+  ]
+}
