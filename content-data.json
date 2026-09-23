@@ -122,6 +122,11 @@
       "text": "Recent News:",
       "links": []
     },
+        {
+      "tag": "p",
+      "text": "[Sep 26]: Our paper \"BioBatchNet: A Dual-Encoder Framework for Robust Batch Effect Correction in Imaging Mass Cytometry\" has been accepted in Bioinformatics. Well done, Haiping!",
+      "links": []
+    },
     {
       "tag": "p",
       "text": "[July 26]: Our paper \"Foundation Models in Omics Research: A Comprehensive Survey\" has been accepted in Briefings in Bioinformatics. Well done, Haozhe!",
